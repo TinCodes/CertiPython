@@ -1,0 +1,11 @@
+Hemos cubierto:
+	- cd [path]: moverse entre directorios
+	- ls (-a, -l, -al): mostrar todo lo que contiene el directorio actual
+	- mkdir [filename]: crear un directorio
+	- touch [filename]: crear un archivo
+	- rmdir [filename]: borrar un directorio
+	- rm [filename]: borrar un archivo
+	- cp [fileToCopy] [path]: copiar un archivo
+	- mv [oldFile] [newFile]: mover o renombrar un archivo
+Igualmente hemos visto los directorios que maneja Linux que son comunes en
+todas las distribuciones.

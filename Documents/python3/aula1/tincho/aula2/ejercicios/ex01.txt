@@ -1,0 +1,15 @@
+ls: lista los archivos dentro de la carpeta en formato simple
+ls -m: lista los archivos dentro de una carpeta separados de una coma.
+ls -l: lista los archivos dentro de una capeta en formato largo y detallado
+ls -l -v: lista los archivos dentro de una carpeta en formato largo y
+detallado y los ordena por orden numerico natural.
+
+ls ai[1-5].c: lista todos los archivos que empiezan con 'ai' seguido de un
+numero de entre el 1 al 5 y con la terminacion '.c'
+ls [a-c]ii1.c: lista todos los archivos que empiezan con una 'a', 'b' o 'c'
+ y tienen 'ii' seguido de un 1 y terminando en '.c'
+
+echo ai[1-5].c: imprime en la pantalla un texto que empieza con 'ai'
+seguido de 1 y terminando en .c, esto continua aumentando el numero hasta llegar a 5. 
+ls [a-c]ii1.c: lista todos los archivos dentro de la carpeta actual que
+empiecen con 'a', 'b' o 'c' y les siga 'ii1.c'

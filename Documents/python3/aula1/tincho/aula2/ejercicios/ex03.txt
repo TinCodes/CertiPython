@@ -1,0 +1,8 @@
+cp -i: Pregunta al usuario antes de sobreescribir un archivo que se esta
+copiando. Util para poder evitar accidentes.
+
+mkdir -m: Pone permisos al directorio a la hora de crearlo. Util para poder
+determinar permisos y no tener que ponerlos despues.
+
+rm -i: Pregunta al usuario antes de cada eliminacion. Util para evitar grandes
+accidentes.

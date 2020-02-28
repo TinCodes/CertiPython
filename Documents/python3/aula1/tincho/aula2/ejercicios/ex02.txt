@@ -1,0 +1,11 @@
+ls -n: Es como ls -l pero lista el usuario numerico y los ids de los grupos,
+de este modo se puede elegir por medio de ids a los usuarios que se quieran
+con respecto a los archivos.
+
+ls -R: Recursivamente lista todos los subdirectorios. Esto puede ser util para
+poder explorar todo lo que contiene un archivo sin tener que entrar una y otra
+vez en carpetas que contiene.
+
+ls -S: sortea los archivos por tamano de archivo, donde se ponen primeros los 
+archivos mas grandes. Esto puede ser util para poder determinar que archivos 
+ocupan mas espacio dentro de la carpeta y administrarlos como se quiera.
